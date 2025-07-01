@@ -25,7 +25,5 @@ A modern, fully functional calculator application built with Python's Tkinter li
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/Poojitha-Byatholi/calculator.git
-cd calculator
+https://github.com/Poojitha-Byatholi/simple-calculator.git
 
